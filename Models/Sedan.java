@@ -8,6 +8,6 @@ public class Sedan {
 	
 	public int getModelNumber(int x){
 		
-		return x;
+		return x*2;
 	}
 }
